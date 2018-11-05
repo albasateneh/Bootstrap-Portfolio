@@ -1,0 +1,58 @@
+body {
+    background-image: url("../images/solid.png");
+}
+
+h1 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    background-color: grey;
+    padding: 10px;
+}
+
+#logo {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 35px;
+    
+
+
+}
+
+
+
+.block {
+    background: white;
+    padding: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.footer { 
+
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #666666;
+    color: white;
+    text-align: center;
+    padding: 2%;
+
+ }
+
+ .footer2 { 
+
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: whitesmoke;
+    padding: 2.5%;
+ }
+
+ #pimg {
+     
+ }
+
+ .port-image {
+    margin: 20px auto;
+  }
